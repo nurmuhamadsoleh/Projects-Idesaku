@@ -128,6 +128,7 @@ import GrafikPage from "./admin-desa/grafik-page";
 import TipeLaporanPage from "./tipe-laporan-page";
 import ActivityHistory from "./activityhistory-page";
 import LaporPemdes from "./lapor-pemdes-page";
+import TemplateSuratPage from "./admin-desa/template-surat-page";
 
 import MitraBumdes from "./mitra-bumdes-page";
 import SuratKelahiranPage from "./surat-keterangan-kelahiran-page";
@@ -222,6 +223,7 @@ export {
   TipeLaporanPage,
   ProfileDashboard,
   LaporPemdes,
+  TemplateSuratPage,
   SimpleForum,
   SaldoPage,
   MitraBumdes,

@@ -59,17 +59,6 @@ const SideBarComp = ({ isOpen, toggle, saldo }) => {
           <div className=" sub-sidebar nav-item">
             <div className="sub-sidebar-component">
               <SubSideBar
-                title="New Data"
-                items={submenus[0]}
-                className="fas fa-desktop nav-icon me-2"
-                toggleActiveSubSidebar={toggleActiveSubSidebar}
-                activeSubSidebar={activeSubSidebar}
-              />
-            </div>
-          </div>
-          <div className=" sub-sidebar nav-item">
-            <div className="sub-sidebar-component">
-              <SubSideBar
                 title="Adminstrasi Desa"
                 items={submenus[12]}
                 className="far fa-file nav-icon me-2"

@@ -7,6 +7,7 @@ import FooterComp from "./footer";
 import IdesakuInput from "./idesaku-input";
 import ImageUploader from "./image-uploader";
 import KopSurat from "./kop-surat";
+import TemplateSurat from "./template-surat";
 import NavBar from "./navbar";
 import RegisterMultiForm from "./register-multi-form";
 import SideBarComp from "./side-bar";
@@ -30,6 +31,7 @@ export {
   IdesakuInput,
   ImageUploader,
   KopSurat,
+  TemplateSurat,
   NavBar,
   RegisterMultiForm,
   SideBarComp,
