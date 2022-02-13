@@ -25,7 +25,7 @@ import {
   KategoriBumdes,
   LaporanMasyarakatPage,
   LaporPemdes,
-  // LaporSurat,
+  LaporSurat,
   PendukungDesa,
   PengajuanEdesaPage,
   PengajuanMitraBumdes,
@@ -49,7 +49,7 @@ import {
   UserDashboard,
   WisataBumdes,
 } from "../pages";
-import { LaporSurat } from "../pages";
+// import { LaporSurat } from "../pages";
 
 // import TemplateSurat from '../components';
 export const routes = [

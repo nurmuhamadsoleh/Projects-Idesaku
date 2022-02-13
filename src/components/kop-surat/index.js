@@ -7,7 +7,7 @@ const KopSurat = () => {
         <Container>
             <Card className="my-3" >
                 <CardHeader className="py-3">
-                    <h5 className="m-0 p-0 align-middle"></h5>
+                    <h5 className="m-0 p-0 align-middle">Kop Surat</h5>
                 </CardHeader>
             </Card>
             <Row>
