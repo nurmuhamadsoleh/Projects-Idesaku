@@ -128,7 +128,11 @@ import GrafikPage from "./admin-desa/grafik-page";
 import TipeLaporanPage from "./tipe-laporan-page";
 import ActivityHistory from "./activityhistory-page";
 import LaporPemdes from "./lapor-pemdes-page";
+<<<<<<< HEAD
 import LaporSurat from "./lapor-surat-page";
+=======
+import TemplateSuratPage from "./admin-desa/template-surat-page";
+>>>>>>> 8f6646ca07d75a9400c1b31386da12e68154f3c3
 
 import MitraBumdes from "./mitra-bumdes-page";
 import SuratKelahiranPage from "./surat-keterangan-kelahiran-page";
@@ -223,7 +227,11 @@ export {
   TipeLaporanPage,
   ProfileDashboard,
   LaporPemdes,
+<<<<<<< HEAD
   LaporSurat, 
+=======
+  TemplateSuratPage,
+>>>>>>> 8f6646ca07d75a9400c1b31386da12e68154f3c3
   SimpleForum,
   SaldoPage,
   MitraBumdes,

@@ -25,7 +25,11 @@ import {
   KategoriBumdes,
   LaporanMasyarakatPage,
   LaporPemdes,
+<<<<<<< HEAD
   LaporSurat,
+=======
+  TemplateSuratPage,
+>>>>>>> 8f6646ca07d75a9400c1b31386da12e68154f3c3
   PendukungDesa,
   PengajuanEdesaPage,
   PengajuanMitraBumdes,
@@ -49,7 +53,10 @@ import {
   UserDashboard,
   WisataBumdes,
 } from "../pages";
+<<<<<<< HEAD
 // import { LaporSurat } from "../pages";
+=======
+>>>>>>> 8f6646ca07d75a9400c1b31386da12e68154f3c3
 
 // import TemplateSurat from '../components';
 export const routes = [
@@ -175,14 +182,8 @@ export const routes = [
     layout: "/admin-desa",
   },
   {
-    path: "/new-data",
-    component: LaporSurat,
-    name: "new-data",
-    layout: "/admin-desa"
-  },
-  {
     path: "/template-surat",
-    component: LaporSurat,
+    component: TemplateSuratPage,
     name: "template-surat",
     layout: "/admin-desa",
   },

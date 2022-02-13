@@ -19,10 +19,6 @@ export const submenus = [
       title: "Aktivitas Anggota",
       target: "aktifitas-anggota",
     },
-    {
-      title: "New Data",
-      target: "new-data",
-    },
   ],
   [
     {

@@ -1,4 +1,5 @@
 import React from "react";
+<<<<<<< HEAD
 import { Container, Card, CardHeader, CardTitle, CardText, Button, Row, Col, Form, FormGroup, Label, Input, CustomInput, Table} from "reactstrap";
 const TemplateSurat = () =>{
     return(
@@ -484,5 +485,4 @@ const TemplateSurat = () =>{
             </Row>
         </Container>
     )
-}
 export default TemplateSurat;
