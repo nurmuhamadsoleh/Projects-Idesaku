@@ -55,6 +55,7 @@ const AddNews = () => {
   }, []);
 
   const onChangeEditor = (e) => {
+    console.log(e);
     setNewsContent(e);
   };
 
